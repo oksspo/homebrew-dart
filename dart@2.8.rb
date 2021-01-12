@@ -2,7 +2,7 @@ class DartAT28 < Formula
   desc "The Dart SDK"
   homepage "https://www.dartlang.org/"
 
-  version "2.8.1"
+  version "2.8.4"
   keg_only :versioned_formula
   if OS.mac?
     url "https://storage.googleapis.com/dart-archive/channels/stable/release/2.8.4/sdk/dartsdk-macos-x64-release.zip"
